@@ -1,0 +1,35 @@
+{
+"TeamStatusDTO" : [
+  {
+    "statusId" : "jhdcehud",
+    "userAlias" : "ganpac",
+    "asOfDate" : "29-May-18",
+     "StatusMetrics" : [
+       {
+         "metricName" : "Sla",
+         "displayValue" : "200",
+         "comments" : "Sla is less",
+         "actualColor" : "red"
+       }
+       {
+         "metricName" : "People",
+         "displayValue" : "0",
+         "comments" : "No attrition",
+         "actualColor" : "green"
+       }
+       {
+         "metricName" : "Utilization",
+         "displayValue" : "80.78",
+         "comments" : "Utilization is less",
+         "actualColor" : "green"
+       }
+       {
+         "metricName" : "Shrinkage",
+         "displayValue" : "10.78",
+         "comments" : "Shrinkage is less",
+         "actualColor" : "red"
+       }
+     ]
+    }
+  ]
+}
